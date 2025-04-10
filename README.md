@@ -38,6 +38,8 @@ This tool allows you to view all your Fortnite cosmetic items by extracting them
    pip install requests Pillow PyPDF2 unidecode
    ```
 
+or use the [release](https://github.com/neksiak/fnbannedlocker/releases/tag/1.0)
+   
 ## Usage
 
 ### Step 1: Request Your Epic Games Account Data
